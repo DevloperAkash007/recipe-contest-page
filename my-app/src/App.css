@@ -1,0 +1,9 @@
+.background-container{
+  background-image: url('https://html.tonatheme.com/2023/earls/assets/images/banner/banner-01.png');
+  background-size: cover;
+  min-height: 100vh;
+  padding: 20px;
+  text-align: center;
+  color: white;
+  overflow: hidden;
+}
